@@ -5,5 +5,5 @@ Some of my traditional artworks hosted via github pages. (For the time being! Ma
 https://saifttu.github.io/Portfolio/
 
 
-If the submit email button is not working yet, please email me at saif03161996@gmail.com
+If the submit email button is not working yet, please email me at saif03161996@gmail.com with your message.
 
